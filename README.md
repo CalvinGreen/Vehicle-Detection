@@ -1,5 +1,5 @@
 # Vehicle Detection
-:PYTHON3.4
+VER:PYTHON3.4
 
 ENV:ANACONDA3
 
